@@ -1,8 +1,0 @@
-#summary How to use wordpress mobile detection for wordpress
-#labels Featured
-
-How to use wordpress mobile detection for wordpress
-
-Define a theme for mobile browsers visitors and named it "mobile".
-Download, extract and activate the plugin.
-Enjoy it !
